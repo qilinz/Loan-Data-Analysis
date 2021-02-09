@@ -10,8 +10,8 @@
 - `prosperLoanData.csv`: original dataset
 - `cleaned_loans.csv`: cleaned dataset
 #### Analysis files
-- **`Loan_Data_Exploration.html`: document the exploration process**
-- `Loan_slide_deck.html`: organised the slide deck deliverable
+- **`Loan_Data_Exploration.ipynb` or `Loan_Data_Exploration.html`: document the exploration process**
+- `Loan_slide_deck.ipynb` or `Loan_slide_deck.html`: organised the slide deck deliverable
 - `Loan_slide_deck.slides.html`: presentation slides
 #### Other
 - `output_toggle.tpl`: template file can be used with nbconvert to export slide deck
