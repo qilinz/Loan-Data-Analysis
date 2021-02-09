@@ -1,10 +1,21 @@
 # Loan Data Exploration
-## by Qilin Zhang
 
 
 ## Dataset
 
 - This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. Please check Prosper Data Dictionary to Explain Dataset's Variables for detailed variable explanations.
+
+## File Description
+#### Data files
+- `prosperLoanData.csv`: original dataset
+- `cleaned_loans.csv`: cleaned dataset
+#### Analysis files
+- **`Loan_Data_Exploration.ipynb` or `Loan_Data_Exploration.html`: document the exploration process**
+- `Loan_slide_deck.ipynb` or `Loan_slide_deck.html`: organised the slide deck deliverable
+- `Loan_slide_deck.slides.html`: presentation slides
+#### Other
+- `output_toggle.tpl`: template file can be used with nbconvert to export your slide deck
+
 
 ## Summary of Findings
 
@@ -16,7 +27,7 @@
 
 - Loan term also strengthened the relationship between prosper rating and loan amount. People with higher prosper rating could get higher amount of loan for longer term compared to those with low prosper rating.
 
-- For long term loans (36 or 60 months), only applications from people have credit score above 560 is granted.
+- For long term loans (36 or 60 months), only applications from people have credit score above 600 is granted.
 
 
 ## Key Insights for Presentation
