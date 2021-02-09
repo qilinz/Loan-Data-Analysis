@@ -14,7 +14,7 @@
 - `Loan_slide_deck.ipynb` or `Loan_slide_deck.html`: organised the slide deck deliverable
 - `Loan_slide_deck.slides.html`: presentation slides
 #### Other
-- `output_toggle.tpl`: template file can be used with nbconvert to export your slide deck
+- `output_toggle.tpl`: template file can be used with nbconvert to export slide deck
 
 
 ## Summary of Findings
