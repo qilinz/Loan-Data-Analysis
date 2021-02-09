@@ -34,7 +34,7 @@
 
 - All plots are based on the cleaned dataset, which might lead to difference from the Exploration section.
 
-- For the presentation, I focus on two questions: (1) what factors affect a loan’s outcome status, and (2) what affects the borrower interest rate in the dataset. I started by introducing four variables - loan status, borrower rate, loan amount and loan categories to provide a basic picture of these loan records.
+- For the presentation, I focus on two questions: (1) what affects a loan’s outcome status, and (2) what affects the borrower interest rate in the dataset. I started by introducing four variables - loan status, borrower rate, loan amount and loan categories to provide a basic picture of these loan records.
 
 - Afterwards, I plot the interactions between variables, which answer the research questions. Primarily, I present the plots showing the relationship between defaulted rate and credit score or Prosper rating seperately, which suggested the higher an idividual's credit score or Prosper rating, the less likely s/he might default. In the following, I use two multivariable plots to show Borrower Rate and Loan Amount by Prosper Rating and Loan Term, which is the most significant figures in the exploration section. Through these two plots, it could be discovered not only the correlation between Borrower Rate and Prosper Rating or that between Loan Amount and Prosper Rating, but also the strengthening role of loan terms on these two correlations. This answers the second research question by indicating that people with higher Prosper ratings are more likely to have lower borrower rate for longer loan term.
 
